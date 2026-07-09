@@ -17,6 +17,7 @@ Reinforcement learning · Neurorobotics
 
 | Repo | Description | Paper |
 |---|---|---|
+| [ROR-CogMaps](https://github.com/oscarguerrerorosado/RORcogmaps) | Reward Overrepresented Cognitive Maps | ONGOING |
 | [IROS2025-MoHA](https://github.com/oscarguerrerorosado/IROS2025-MoHA) | Motivational Hippocampal Autoencoder | IROS 2025 |
 | [IROS2025-MoHA-Webots](https://github.com/oscarguerrerorosado/IROS2025-MoHA-Webots) | MoHA embodied in Webots with SEC | IROS 2025 |
 | [ALIFE2025-Desert-Lizard](https://github.com/oscarguerrerorosado/ALIFE2025-Desert-Lizard) | Neural Mass Allostatic Model in ROS2/Webots | ALIFE 2025 |
